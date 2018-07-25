@@ -36,7 +36,7 @@ public class City extends LitePalSupport {
         this.cityCode = cityCode;
     }
 
-    public void setProvincedId(int provinceId) {
+    public void setProvinceId(int provinceId) {
         this.provinceId = provinceId;
     }
 }
